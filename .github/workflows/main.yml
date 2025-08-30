@@ -1,8 +1,8 @@
-name:first work flow:
+name: first work flow
 
 on:
   push:
-    bransh:
+    branches:
       -main
 
 jobs:
