@@ -13,7 +13,7 @@ jobs:
       - name: print a welcome message
         run: echo "welcome Ahmed"
 
-      - name: checkout reposetory
+      - name: checkout repository
         uses: actions/chechout@v4.2.2
 
       - name: list files
